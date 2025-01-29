@@ -1,5 +1,5 @@
 # -zg-rElb-a
-About Me
+
 
 # Hi there, I'm Özgür Elbüğa! 👋
 
