@@ -12,7 +12,6 @@ I am a cybersecurity enthusiast and an Information Security Technology student a
 - **Secure Software Development** 💻
 
 ## Skills & Tools
-- **Programming Languages**: Python, Java, PHP (basic knowledge)
 - **Security Tools**: Nmap, Burp Suite, OWASP ZAP, Hashcat, Metasploit
 - **OS & Platforms**: Kali Linux, Security Onion, Windows Server
 
