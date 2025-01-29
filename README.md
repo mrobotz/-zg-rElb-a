@@ -24,9 +24,8 @@ I have worked on several penetration testing projects, including:
 
 ## Contact Me
 📫 Feel free to reach out!
-- **LinkedIn**: [Your LinkedIn URL]
-- **GitHub**: [Your GitHub Profile]
-- **Email**: [Your Email]
+- **LinkedIn**: https://www.linkedin.com/in/özgür-elbüğa-2b8a5a306
+- **Email**: ozgurrel11@gmail.com
 
 ---
 🚀 *Always learning, always improving!*
