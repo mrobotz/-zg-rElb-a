@@ -4,7 +4,10 @@
 # Hi there, I'm Özgür Elbüğa! 👋
 
 ## About Me
-I am a cybersecurity enthusiast and an Information Security Technology student at Bilgi University. My main interests include:
+I'm a cybersecurity enthusiast and a graduate of Information Security Technology at Bilgi University.
+I’m passionate about application security, ethical hacking, and responsible disclosure.
+Currently focused on improving my skills, collaborating on security projects, and exploring career opportunities in the field of cybersecurity.
+Open to job offers, internships, and meaningful contributions to security-driven teams.
 
 - **Penetration Testing** 🔍
 - **Network Security** 🔒
